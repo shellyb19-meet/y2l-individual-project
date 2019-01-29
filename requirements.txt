@@ -8,3 +8,4 @@ Werkzeug==0.14.1
 wheel==0.24.0
 requests==2.18.4
 sqlalchemy==1.0.13
+wikipedia==1.4.0
