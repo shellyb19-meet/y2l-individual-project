@@ -6,5 +6,12 @@ from sqlalchemy import create_engine
 Base = declarative_base()
 
 # Write your classes here :
-class Product(Base):
-    pass
+class Place(Base):
+	__tablename__ = "places"
+	id = Column(Integer, primary_key=True)
+	name = Column(String)
+	info=Column(String)
+	photo1=Column(String)
+	photo2=Column(String)
+	photo3=Column(String)
+	link=Column(String)

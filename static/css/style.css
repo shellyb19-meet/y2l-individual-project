@@ -1,0 +1,18 @@
+#bodys{
+	background-image: url("/static/css/sea4.jpg");
+	height: 800px;
+}
+
+#h{
+	color: white;
+	font: "Sans-serif";
+	text-align: center;
+	font-size:70px;
+	margin-top:80px;
+
+}
+#search1{
+	margin-top: 40px;
+	margin-left: 530px;
+	font-size: 30px;
+}

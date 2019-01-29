@@ -1,0 +1,62 @@
+#h{
+	text-align: center;
+	font-size:30px;
+	margin-top: 50px;
+}
+#h10{
+	text-align: center;
+	font-size:50px;
+	margin-top: 50px;
+	color: #D6F9D9;
+}
+#search{
+	margin-left: 470px;
+	margin-right: 470px;
+}
+#hh{
+	text-align: center;
+	margin-top: 50px;
+}
+.a{
+	background-image: url('/static/css/harim.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+	margin: 30px;
+	padding: 20px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+#h1{
+	text-align: center;
+	color: #D6F9D9;
+	font-weight: bold;
+	font-size: 35px;
+}
+#h2{
+	text-align: center;
+	color: #D6F9D9;
+	font-weight: bold;
+	font-size: 35px;
+}
+#h3{
+	text-align: center;
+	color: #D6F9D9;
+	font-weight: bold;
+	font-size: 35px;
+}
+#h11{
+	margin-top: 30px;
+	text-align: center;
+	color: #2E5077;
+	font-weight: bold;
+	font-size: 35px;
+}
+#h12{
+	text-align: center;
+}
+#bodys1{
+	background-color: #D6F9D9;
+}
+#a1{
+	font-size:20px;
+}
